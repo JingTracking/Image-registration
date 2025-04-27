@@ -1,1 +1,1 @@
-# Image-Guided-Therapy
+# Image registration
